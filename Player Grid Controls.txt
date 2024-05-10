@@ -1,0 +1,21 @@
+Controls for PlayerGrid.exe (also applies to PlayerEnd.jar)
+
+
+Left Click - Select a square
+Right Click - Place Wall(default) / Color Square
+
+Numbers 0 to 9 - Change the color of the next object
+Enter - Place Icon
+Delete - Resets the selected square
+Spacebar - Pickup / Place recently picked up object
+
+Arrow Keys - Rotate arrow to specified direction
+R - Rotates arrow clockwise
+
+W - Move Forward (According to arrow)
+A - Move Left (According to arrow)
+S - Move Right (According to arrow)
+D - Turn Around (According to arrow)
+
+CTRL - Color Change Body Mode (default) / Color Change Arrow Mode
+ALT - Place Wall Mode (default) / Color Square Mode

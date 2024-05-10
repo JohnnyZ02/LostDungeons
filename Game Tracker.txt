@@ -1,0 +1,55 @@
+Game Tracker.txt is a file for the player to fill out as they go (optional). This may help to keep track of the state of the game
+
+
+
+Walls Coordinates
+Row:	Col: 
+Row:	Col: 
+Row:	Col: 
+Row:	Col: 
+
+Treasure Coordinates
+Row:	Col:
+
+
+Player 1 [COLOR]
+Gold:
+
+Player 2 [COLOR]
+Gold:
+
+Player 3 [COLOR]
+Gold:
+
+Player 4 [COLOR]
+Gold:
+
+
+Your Coords?
+Row	Col:
+
+Turn 1 - 
+Turn 2 - 
+Turn 3 - 
+Turn 4 - 
+Turn 5 - 
+Turn 6 - 
+Turn 7 - 
+Turn 8 - 
+Turn 9 - 
+Turn 10 - 
+Turn 11 - 
+Turn 12 - 
+Turn 13 - 
+Turn 14 - 
+Turn 15 - 
+Turn 16 - 
+Turn 17 - 
+Turn 18 - 
+Turn 19 - 
+Turn 20 - 
+Turn 21 - 
+Turn 22 - 
+Turn 23 - 
+Turn 24 -
+Turn 25 -  

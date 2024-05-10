@@ -1,3 +1,12 @@
+IMPORTANT: Install Java (jdk-17.0.1) and JavaFX (javafx-sdk-17.0.2) in the same directory to the run the exe and jar files. Do tinker with the contenst of the javafx-sdk or jdk folders or rename them.
+
+Link to jdk: 
+https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
+Link to javafx sdk:
+https://download2.gluonhq.com/openjfx/17.0.11/openjfx-17.0.11_windows-x64_bin-sdk.zip
+
+---
+
 The Lost Dungeon
 Author: Johnny Zheng
 Version 04.25.23
@@ -9,7 +18,7 @@ Note: .exe files may trigger antivirus and protection software. If such messages
 
 
 Not on Windows or Cannot Open Files
-That said, the .jar (Java Archive) versions of both .exe files are included in this folder. If you do not have a Windows or cannot run the files by clicking on them, run the jar files through the command prompt. Don't forget to include the VM Arguements when you run them. Instructions for command prompt is not included. 
+The .jar (Java Archive) versions of both .exe files are included in this folder. If you do not have a Windows or cannot run the files by clicking on them, run the jar files through the command prompt. Don't forget to include the VM Arguements when you run them. Instructions for command prompt is not included. 
 
 
 This folder contains the following direction files. Please look through these files in the order listed below before starting the game. 
@@ -32,9 +41,3 @@ The JAR files below can be ran in command line with VM arguments if you cannot o
 
 PlayerEnd.jar
 MasterEnd.jar
-
-
-The folders listed below contain the entirety of the java library (jdk-17.0.1) and the javaFx graphical interface (javafx-sdk-17.0.2) used to the run these programs. Because the applications are made in javaFx and require a Java runtime environment, they are both necessary. Since I did not know what parts of the folders to include, I included everything pertaining to Java (17.0.1) and JavaFx (17.0.2). They take up a fair amount of space but do not tinker with these folders even if you already have java and javaFx installed as the .exe files will look for the files within the foler to run them!
-
-jdk-17.0.1
-javafx-sdk-17.0.2
